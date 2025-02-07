@@ -1,0 +1,12 @@
+
+tiktoken
+datasets
+trl
+peft
+matplotlib
+jieba
+rouge_chinese
+nltk
+gradio
+SPARQLWrapper
+pyodbc
